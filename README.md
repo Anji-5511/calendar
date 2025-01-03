@@ -1,4 +1,4 @@
-#Calendar Application for Communication Tracking
+## **Calendar Application for Communication Tracking**
 
 This project is a **React** application built using **Vite** as the build tool and **Tailwind CSS** for styling. The system provides an interface for administrators to configure foundational data and manage companies' communication schedules. The application features modules for company management, communication methods management, and user interaction.
 
